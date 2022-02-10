@@ -147,3 +147,7 @@ dist
 # IDE Folders
 .vscode/
 .idea/
+
+
+
+config/config.json
